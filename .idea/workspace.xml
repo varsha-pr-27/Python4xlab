@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="New line added" />
+    <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="Line added">
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "varsha-pr-27"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;varsha-pr-27&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/varsha-pr-27/Python4xlab.git",
-    "accountId": "96693374-e71b-41dc-91aa-503c0a8399fc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/varsha-pr-27/Python4xlab.git&quot;,
+    &quot;accountId&quot;: &quot;96693374-e71b-41dc-91aa-503c0a8399fc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kQtHSP5o1BTdxIP7q7iOrTRLcg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,10 +52,49 @@
   "keyToString": {
     "Python.lab001.executor": "Run",
     "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Python4xlab/src/ex_08082024/ex_10082024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\Python4xlab\src\ex_08082024\ex_10082024" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python4xlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab002" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,11 +119,37 @@
       <option name="project" value="LOCAL" />
       <updated>1723228912931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New line added">
+      <option name="closed" value="true" />
+      <created>1723229049253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723229049253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Line deleted">
+      <option name="closed" value="true" />
+      <created>1723229179408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723229179408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Line added">
+      <option name="closed" value="true" />
+      <created>1723229530613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723229530613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New line added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New line added" />
+    <MESSAGE value="Line deleted" />
+    <MESSAGE value="Line added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Line added" />
   </component>
 </project>
