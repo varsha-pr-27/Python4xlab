@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="Line added">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab000013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0011.py" afterDir="false" />
+    <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="New programs added">
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab0008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab0008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,34 +48,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab000013.executor": "Run",
-    "Python.lab00012.executor": "Run",
-    "Python.lab00014.executor": "Run",
-    "Python.lab0006.executor": "Run",
-    "Python.lab0008.executor": "Run",
-    "Python.lab0009.executor": "Run",
-    "Python.lab001.executor": "Run",
-    "Python.lab0010.executor": "Run",
-    "Python.lab0011.executor": "Run",
-    "Python.lab002.executor": "Run",
-    "Python.lab003.executor": "Run",
-    "Python.lab004.executor": "Run",
-    "Python.lab005.executor": "Run",
-    "Python.lab007.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Python4xlab/src/ex_08082024/ex_10082024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab000013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab00012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab00014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/Python4xlab/src/ex_08082024/ex_10082024&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\Python4xlab\src\ex_08082024\ex_10082024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.lab002">
+    <configuration name="Task 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python4xlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/Task 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4xlab" />
       <option name="ENV_FILES" value="" />
@@ -102,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 2" />
         <item itemvalue="Python.lab002" />
       </list>
     </recent_temporary>
@@ -178,13 +201,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723541449752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New programs added">
+      <option name="closed" value="true" />
+      <created>1724231669741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724231669741</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New line added" />
     <MESSAGE value="Line deleted" />
     <MESSAGE value="Line added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Line added" />
+    <MESSAGE value="New programs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New programs added" />
   </component>
 </project>
