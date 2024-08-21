@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="Line added">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab000013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab0011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +52,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lab000013.executor": "Run",
+    "Python.lab00012.executor": "Run",
+    "Python.lab00014.executor": "Run",
     "Python.lab0006.executor": "Run",
     "Python.lab0008.executor": "Run",
     "Python.lab0009.executor": "Run",
     "Python.lab001.executor": "Run",
+    "Python.lab0010.executor": "Run",
+    "Python.lab0011.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
     "Python.lab004.executor": "Run",
@@ -163,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723537939670</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Line added">
+      <option name="closed" value="true" />
+      <created>1723541449752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723541449752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
