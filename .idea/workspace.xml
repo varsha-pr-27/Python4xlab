@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="New programs added">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\Python4xlab\src\ex_08082024\ex_10082024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Task 2">
     <configuration name="Task 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4xlab" />
       <option name="ENV_FILES" value="" />
@@ -122,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab002" />
         <item itemvalue="Python.Task 2" />
+        <item itemvalue="Python.lab002" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724248457461</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New programs added">
+      <option name="closed" value="true" />
+      <created>1724249573386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724249573386</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -7,6 +7,7 @@
 num1 = int(input("Enter the value of num1"))
 num2 = int(input("Enter the value of num2"))
 
+
 print(max(f'{num1, num2}'))
 print("Sum of two numbers =", f'{num1 + num2}')
 print("Sub of two numbers =", f'{num1 - num2}')
