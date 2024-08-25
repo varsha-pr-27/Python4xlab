@@ -1,2 +1,2 @@
-result = max(44,75)
+result = max(44, 75)
 print(result)

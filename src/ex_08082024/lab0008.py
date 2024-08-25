@@ -3,4 +3,3 @@ print(type(age))  # <class 'int'>
 
 name = "Varsha"
 print(type(name))  # <class 'str'>
-
