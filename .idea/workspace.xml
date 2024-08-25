@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="New programs added">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Task 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/Task 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,9 @@
   "keyToString": {
     "Python.Task 1.executor": "Run",
     "Python.Task 2.executor": "Run",
+    "Python.Task 4.executor": "Run",
+    "Python.Task 5.executor": "Run",
+    "Python.Task 6.executor": "Run",
     "Python.lab000013.executor": "Run",
     "Python.lab00012.executor": "Run",
     "Python.lab00014.executor": "Run",
@@ -100,6 +105,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python4xlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/Task 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4xlab" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 5" />
         <item itemvalue="Python.Task 2" />
         <item itemvalue="Python.lab002" />
       </list>
@@ -241,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724253191475</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New programs added">
+      <option name="closed" value="true" />
+      <created>1724571415144</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724571415144</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
