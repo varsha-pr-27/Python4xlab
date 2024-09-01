@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a510a04f-ba8f-49c8-bd8f-4a6213e90265" name="Changes" comment="New programs added">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab000029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab000033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab000034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab00035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,57 +52,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Task 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab000013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab00028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/Python4xlab/src/ex_08082024/ex_10082024&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task 1.executor": "Run",
+    "Python.Task 10.executor": "Run",
+    "Python.Task 2.executor": "Run",
+    "Python.Task 4.executor": "Run",
+    "Python.Task 5.executor": "Run",
+    "Python.Task 6.executor": "Run",
+    "Python.Task 7.executor": "Run",
+    "Python.Task 8.executor": "Run",
+    "Python.Task 9.executor": "Run",
+    "Python.lab000013.executor": "Run",
+    "Python.lab000029.executor": "Run",
+    "Python.lab000033.executor": "Run",
+    "Python.lab000034.executor": "Run",
+    "Python.lab00012.executor": "Run",
+    "Python.lab00014.executor": "Run",
+    "Python.lab00015.executor": "Run",
+    "Python.lab00016.executor": "Run",
+    "Python.lab00017.executor": "Run",
+    "Python.lab00018.executor": "Run",
+    "Python.lab00019.executor": "Run",
+    "Python.lab00020.executor": "Run",
+    "Python.lab00021.executor": "Run",
+    "Python.lab00022.executor": "Run",
+    "Python.lab00023.executor": "Run",
+    "Python.lab00024.executor": "Run",
+    "Python.lab00025.executor": "Run",
+    "Python.lab00026.executor": "Run",
+    "Python.lab00027.executor": "Run",
+    "Python.lab00028.executor": "Run",
+    "Python.lab00030.executor": "Run",
+    "Python.lab00031.executor": "Run",
+    "Python.lab00032.executor": "Run",
+    "Python.lab00035.executor": "Run",
+    "Python.lab0006.executor": "Run",
+    "Python.lab0008.executor": "Run",
+    "Python.lab0009.executor": "Run",
+    "Python.lab001.executor": "Run",
+    "Python.lab0010.executor": "Run",
+    "Python.lab0011.executor": "Run",
+    "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
+    "Python.lab007.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Python4xlab/src/ex_08082024/ex_10082024",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\Python4xlab\src\ex_08082024\ex_10082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab002">
+  <component name="RunManager">
     <configuration name="Task 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4xlab" />
       <option name="ENV_FILES" value="" />
@@ -143,6 +155,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab000034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python4xlab" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab000034.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python4xlab" />
       <option name="ENV_FILES" value="" />
@@ -167,6 +201,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab000034" />
         <item itemvalue="Python.lab002" />
         <item itemvalue="Python.Task 5" />
         <item itemvalue="Python.Task 2" />
@@ -333,8 +368,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724664577331</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="New programs added">
+      <option name="closed" value="true" />
+      <created>1724694599865</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724694599865</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New line added" />
